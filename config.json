@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "server": {
+      "port": ":8080"
+    },
+    "aws": {
+      "S3Region": "s3_region_here",
+      "S3Bucket": "s3_bucket_here"
+    }
+  }
